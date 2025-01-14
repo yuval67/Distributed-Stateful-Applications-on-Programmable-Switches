@@ -1,3 +1,3 @@
 # Distributed-Stateful-Applications-on-Programmable-Switches
-utilized programmable switches and the Qpipe algorithm to dynamically monitor and optimize network traffic and reduce congestion.
+By leveraging programmable switches and the Qpipe algorithm, it's possible to dynamically monitor and process network traffic in real time. This allows for intelligent adjustments to balance the flow of information, manage network loads effectively, and optimize overall network performance. The combination of these technologies enables proactive traffic routing, congestion reduction, and improved resource utilization, ensuring smoother and more efficient network operations.
 Full git with code base: https://github.com/SivanVe/A_Qpipe16/tree/main
